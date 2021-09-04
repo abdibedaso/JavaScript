@@ -1,10 +1,10 @@
 # 30 Days Of JavaScript
 
-| # Day |                                                                       Topics                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 00    |                                                             [Introduction](./readMe.md)                                                             |
-| 01    |                                                             [Hello World](./01-Hello-World)                                                         |
-| 02    |                                               [Data Types](./02-Data-types)                                                                         |
+| # Topics |                                                                       Topics                                                                        |
+| -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 00       |                                                             [Introduction](./readMe.md)                                                             |
+| 01       |                                                             [Hello World](./01-Hello-World)                                                         |
+| 02       |                                               [Data Types](./02-Data-types)                                                                         |
 
 <div align="center">
   <h1> JavaScript Web Application Programming </h1>
