@@ -30,3 +30,8 @@ console.log(Math.sqrt(2)) //1.4142135623730951
 // Power
 console.log(Math.pow(3, 2)) // 9
 console.log(Math.E) // 2.718
+
+// Logarithm
+//Returns the natural logarithm of base E of x, Math.log(x)
+console.log(Math.log(2)) // 0.6931471805599453
+console.log(Math.log(10)) // 2.302585092994046
