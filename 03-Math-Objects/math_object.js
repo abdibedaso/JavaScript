@@ -35,3 +35,9 @@ console.log(Math.E) // 2.718
 //Returns the natural logarithm of base E of x, Math.log(x)
 console.log(Math.log(2)) // 0.6931471805599453
 console.log(Math.log(10)) // 2.302585092994046
+
+// Trigonometry
+console.log(Math.sin(0))
+console.log(Math.sin(60))
+console.log(Math.cos(0))
+console.log(Math.cos(60))
