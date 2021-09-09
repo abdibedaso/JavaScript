@@ -19,3 +19,6 @@ console.log(randNum)
     // Let create random number between 0 to 10
 const num = Math.floor(Math.random() * 11) // creates random number between 0 and 10
 console.log(num)
+
+//Absolute value
+console.log(Math.abs(-10)) //10
