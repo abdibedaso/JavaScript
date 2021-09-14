@@ -5,6 +5,7 @@
 | 00       |                                                             [Introduction](./readMe.md)                                                             |
 | 01       |                                                             [Hello World](./01-Hello-World)                                                         |
 | 02       |                                      [Variables and Data Types](./02-Variables-and-Data-Types)                                                      |
+| 03       |                                                         [Math Objects](./03-Math-Objects)                                                           |
 
 <div align="center">
   <h1> JavaScript Web Application Programming </h1>
