@@ -7,6 +7,7 @@
 | 02       |                                      [Variables and Data Types](./02-Variables-and-Data-Types)                                                      |
 | 03       |                                                         [Math Objects](./03-Math-Objects)                                                           |
 | 04       |                                                            [Conditionals](./04-Conditionals)                                                        |
+| 05       |                                                                  [Arrays](./05-Arrays)                                                              |
 
 <div align="center">
   <h1> JavaScript Web Application Programming </h1>
