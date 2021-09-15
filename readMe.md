@@ -8,6 +8,7 @@
 | 03       |                                                         [Math Objects](./03-Math-Objects)                                                           |
 | 04       |                                                            [Conditionals](./04-Conditionals)                                                        |
 | 05       |                                                                  [Arrays](./05-Arrays)                                                              |
+| 06       |                                                                  [Loops](./06-Loops)                                                              |
 
 <div align="center">
   <h1> JavaScript Application Programming </h1>
