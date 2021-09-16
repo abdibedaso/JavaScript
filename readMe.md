@@ -8,10 +8,12 @@
 | 03       |                                                         [Math Objects](./03-Math-Objects)                                                           |
 | 04       |                                                            [Conditionals](./04-Conditionals)                                                        |
 | 05       |                                                                  [Arrays](./05-Arrays)                                                              |
-| 06       |                                                                  [Loops](./06-Loops)                                                              |
+| 06       |                                                                  [Loops](./06-Loops)                                                                |
+| 07       |                                                            [Functions](./07-Functions)                                                              |
+| -------- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <div align="center">
-  <h3> JavaScript Application Programming </h3>
+  <h3> JavaScript Programs </h3>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abdibedaso/">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
