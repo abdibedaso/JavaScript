@@ -2,6 +2,7 @@
 let space = ' '
 let firstName = 'Abdi'
 let lastName = 'Bedaso'
+let age = 24;
 let country = 'USA'
 let city = 'Fairfield'
 let language = 'JavaScript'
