@@ -10,6 +10,9 @@
 | 05       |                                                                  [Arrays](./05-Arrays)                                                              |
 | 06       |                                                                  [Loops](./06-Loops)                                                                |
 | 07       |                                                            [Functions](./07-Functions)                                                              |
+| 08       |                                                            [Web-Storage](./08-Web-Storage)                                                              |
+| 09       |                                                            [Event-Driven-Programming](./09-Event-Driven-Programming)                                                              |
+| 10       |                                                            [Document-Object-Model](./10-Document-Object-Model)                                                              |
 
 <div align="center">
   <h3> JavaScript Programs </h3>
