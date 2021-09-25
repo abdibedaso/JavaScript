@@ -13,6 +13,9 @@
 | 08       |                                                            [Web-Storage](./08-Web-Storage)                                                              |
 | 09       |                                                            [Event-Driven-Programming](./09-Event-Driven-Programming)                                                              |
 | 10       |                                                            [Document-Object-Model](./10-Document-Object-Model)                                                              |
+| 11       |                                                            [Unobtrusive-JavaScript](./11-Unobtrusive-JavaScript)                                                              |
+| 12       |                                                            [Timer-Events](./12-Timer-Events)                                                              |
+
 
 <div align="center">
   <h3> JavaScript Programs </h3>
