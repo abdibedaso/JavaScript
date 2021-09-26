@@ -15,6 +15,8 @@
 | 10       |                                                            [Document-Object-Model](./10-Document-Object-Model)                                                              |
 | 11       |                                                            [Unobtrusive-JavaScript](./11-Unobtrusive-JavaScript)                                                              |
 | 12       |                                                            [Timer-Events](./12-Timer-Events)                                                              |
+| 13       |                                                            [First-class-functions](./13-First-class-functions)                                                              |
+| 14       |                                                            [Strict-mode](./14-strict-mode)                                                              |
 
 
 <div align="center">
